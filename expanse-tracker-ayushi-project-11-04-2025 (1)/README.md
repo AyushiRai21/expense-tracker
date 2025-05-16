@@ -2,9 +2,9 @@
 
 Daily Expense Tracker System is a web-based application and this application is used to manage the application user‘s daily expenses in a more efficient and manageable way. By using this application we can reduce the manual calculations for their daily expenses and keep the track of the expenditure. In this application, the user can provide his/her expense to calculate his/her total expenses per day and these results will be stored for a unique user.
 
-Note 🔴: - This code has been modified from another project's source code on the web.
 
-You can modify the code to meet your specific requirements.
+
+
 
 🟦 Features :
 
@@ -28,11 +28,6 @@ You can modify the code to meet your specific requirements.
  5) Import the provided SQL file. The file is known as expenditure.sql located inside the database folder.
  6) Browse the Budget and Expense Tracker System in a browser. i.e. http://localhost/Daily-Expense-Tracker-Using-PHP-and-MySQL
  
-🟪 User Account :
-
--> Username : user@gmail.com
-
--> Password : 12345678
 
 ✨Screenshots :
 
